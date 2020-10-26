@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-0tvg-logo="https://i.ibb.co/LRwTT5g/images-20.png" tvg-name="channel9" 
+#EXTINF:-1 group-title="Bangla",Channel 9
 http://global.thunderbd.com/4/tracks-v1a1/mono.m3u8?token=ptv188
-#EXTINF:-0tvg-name="Channel 24"
+#EXTINF:-1 group-title="Bangla",Channel 24
 http://global.thunderbd.com/5/tracks-v1a1/mono.m3u8
-#EXTINF:-0tvg-name="Channel I Hd"
+#EXTINF:-1 group-title="Bangla",Channel I Hd
 http://global.thunderbd.com/6/tracks-v1a1/mono.m3u8
-#EXTINF:-0tvg-name="Deepto"
+#EXTINF:-1 group-title="Bangla",Deepto
 http://global.thunderbd.com/8/tracks-v1a1/mono.m3u8
-#EXTINF:-0tvg-name="Desh TV"
+#EXTINF:-1 group-title="Bangla",Desh Tv
 http://global.thunderbd.com/9/tracks-v1a1/mono.m3u8
-#EXTINF:-0tvg-name="Duronto"
+#EXTINF:-1 group-title="Bangla",Duronto
 http://global.thunderbd.com/10/tracks-v1a1/mono.m3u8
-#EXTINF:-0tvg-name="Ekkator"
+#EXTINF:-1 group-title="Bangla",Ekattor
 http://global.thunderbd.com/11/tracks-v1a1/mono.m3u8
