@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRwTT5g/images-20.png"group-title="Bangla",Channel 9
 http://global.thunderbd.com/4/tracks-v1a1/mono.m3u8?token=ptv188
-#EXTINF:-1 group-title="Bangla",Channel 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vq1Xr5Z/images-21.png"group-title="Bangla",Channel 24
 http://global.thunderbd.com/5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Channel I Hd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6n8BGMG/images-51.jpg"group-title="Bangla",Channel I Hd
 http://global.thunderbd.com/6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Deepto
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCP635G/images-52.jpg"group-title="Bangla",Deepto
 http://global.thunderbd.com/8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Desh Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kb5jZzX/images-53.jpg"group-title="Bangla",Desh Tv
 http://global.thunderbd.com/9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Duronto
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NszYCQr/images-54.jpg"group-title="Bangla",Duronto
 http://global.thunderbd.com/10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Ekattor
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jxd7c0s/images-55.jpg"group-title="Bangla",Ekattor
 http://global.thunderbd.com/11/tracks-v1a1/mono.m3u8
