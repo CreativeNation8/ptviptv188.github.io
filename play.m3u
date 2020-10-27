@@ -14,4 +14,4 @@ http://global.thunderbd.com/9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NszYCQr/images-54.jpg"group-title="Bangla",Duronto
 http://global.thunderbd.com/10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jxd7c0s/images-55.jpg"group-title="Bangla",Ekattor
-http://global.thunderbd.com/11/tracks-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
