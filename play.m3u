@@ -23,7 +23,7 @@ http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",MyTV
 http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla",NTV
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/0b/e9/iAZ8rtAh_t.png"group-title="Bangla",NTV
 http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPTeoHo.jpg"group-title="Bangla",Somoy
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
