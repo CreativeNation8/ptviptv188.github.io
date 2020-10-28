@@ -10,17 +10,17 @@ http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",BanglaVision
 http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRwTT5g/images-20.png"group-title="Bangla",Channel 9
-http://global.thunderbd.com/4/tracks-v1a1/mono.m3u8?token=ptv188
+http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vq1Xr5Z/images-21.png"group-title="Bangla",Channel 24
-http://global.thunderbd.com/5/tracks-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6n8BGMG/images-51.jpg"group-title="Bangla",Channel I Hd
-http://global.thunderbd.com/6/tracks-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCP635G/images-52.jpg"group-title="Bangla",Deepto
-http://global.thunderbd.com/8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kb5jZzX/images-53.jpg"group-title="Bangla",Desh Tv
-http://global.thunderbd.com/9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NszYCQr/images-54.jpg"group-title="Bangla",Duronto
-http://global.thunderbd.com/10/tracks-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jxd7c0s/images-55.jpg"group-title="Bangla",Ekattor
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Jamuna TV 
