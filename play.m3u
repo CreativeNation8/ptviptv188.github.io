@@ -40,7 +40,7 @@ http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",RTV
 http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WPTeoHo.jpg"group-title="Bangla",Somoy
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/WPTeoHo.jpg",Somoy
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",SA TV
 http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
