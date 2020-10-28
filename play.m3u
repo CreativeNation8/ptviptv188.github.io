@@ -3,6 +3,8 @@
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 EXTNIF:-1 tvg-logo=""group-title="Bangla",Anondo TV
 http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+#EXTNIF:-1 tvg-logo=""group-title="Bangla",ATN Bangla
+http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRwTT5g/images-20.png"group-title="Bangla",Channel 9
 http://global.thunderbd.com/4/tracks-v1a1/mono.m3u8?token=ptv188
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vq1Xr5Z/images-21.png"group-title="Bangla",Channel 24
@@ -19,5 +21,11 @@ http://global.thunderbd.com/10/tracks-v1a1/mono.m3u8
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Jamuna TV 
 http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",MyTV
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",NTV
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPTeoHo.jpg"group-title="Bangla",Somoy
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",SA TV
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
