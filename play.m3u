@@ -13,6 +13,8 @@ http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla TV 
 http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",BTV World
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRwTT5g/images-20.png"group-title="Bangla",Channel 9
 http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vq1Xr5Z/images-21.png"group-title="Bangla",Channel 24
@@ -46,3 +48,5 @@ http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",SA TV
 http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Songsad TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/live-orgin/songsodtv-world.stream/chunks.m3u8
