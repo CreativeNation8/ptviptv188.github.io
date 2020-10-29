@@ -50,31 +50,31 @@ http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Songsad TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/live-orgin/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Bwmn55/images-56.jpg"group-title="Indian-Bangla",Zee Bangla HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",Colours Bangla HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K2XWC6q/unnamed-2.jpg"group-title="Indian-Bangla",Colours Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",Sony AATH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKG1MC7/images-22.png"group-title="Indian-Bangla",Sony AATH
 http://103.205.133.50/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",Star Jolsha HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NsSQVVN/images-57.jpg"group-title="Indian-Bangla",Star Jolsha HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",News 18 Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8d1PCXS/images-58.jpg"group-title="Indian-Bangla",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",Enterr 10 Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pr8jjdC/images-59.jpg"group-title="Indian-Bangla",Enterr 10 Bangla
 https://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",Jolsha Movies 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8RFfD5/Jalsha-movies-2.png"group-title="Indian-Bangla",Jolsha Movies 
 http://otv.ftpbd.net/streams/115/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",Orange TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QHT0BDw/images-60.jpg"group-title="Indian-Bangla",Orange TV
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",BanglaTime TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6g1L9BN/images-61.jpg"group-title="Indian-Bangla",BanglaTime TV
 https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",RPlusGold
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khtQBwB/images-62.jpg"group-title="Indian-Bangla",RPlusGold
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian-Bangla",ABP Ananda
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssvpYwQ/images-63.jpg"group-title="Indian-Bangla",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian",Sony Entertainment
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J2Yn7CB/images-64.jpg"group-title="Indian",Sony Entertainment
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian",Sony Sab 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QDC6v2m/images-65.jpg"group-title="Indian",Sony Sab 
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian",Colours
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GWmPwd2/images-66.jpg"group-title="Indian",Colours
 http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
