@@ -174,22 +174,22 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vqg5BBH/images-2020-10-30-T193956-033.jpg"group-title="Indian Movies Channels",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:-1 tvg=logo="https://i.imgur.com/gHBvHes.jpg"group-title="English Movies Channels",AndFlix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg"group-title="English Movies Channels",AndFlix HD
 http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
-#EXTINF:-1 tvg=logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png"group-title="English Movies Channels",Fox HD
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png"group-title="English Movies Channels",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/220px-Blue_ant_entertainment_logo.png"group-title="English Movies Channels",Blue Ant Entertainment 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/220px-Blue_ant_entertainment_logo.png"group-title="English Movies Channels",Blue Ant Entertainment 
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png"group-title="English Movies Channels",Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png"group-title="English Movies Channels",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg=logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png"group-title="English Movies Channels",Fox Movies HD
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png"group-title="English Movies Channels",Fox Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg=logo="https://i.imgur.com/L8LTymM.jpg"group-title="English Movies Channels",HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg"group-title="English Movies Channels",HBO
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
-#EXTINF:-1 tvg=logo="https://i.imgur.com/qowJChe.jpg?1"group-title="English Movies Channels",Movies now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1"group-title="English Movies Channels",Movies now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg=logo="https://i.imgur.com/7mxlvs6.png"group-title="English Movies Channels",Mxn HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png"group-title="English Movies Channels",Mxn HD
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg=logo="https://i.imgur.com/E932mKv.jpg"group-title="English Movies Channels",Cine film 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E932mKv.jpg"group-title="English Movies Channels",Cine film 
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
