@@ -142,3 +142,25 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vjPfB9f/images-91.jpg"group-title="Music",Music India 
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hnXmrn/images-96.jpg"group-title="Indian Movies Channels",ABZY movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bQCkdm6/images-97.jpg"group-title="Indian Movies Channels",B4U Plus
+http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmFrGWz/images-98.jpg"group-title="Indian Movies Channels",BFlix Movies 
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWKfRW3/download.jpg"group-title="Indian Movies Channels",Box Cinema 
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QDBFrgj/images-38.png"group-title="Indian Movies Channels",Maha Movie
+https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTg5hsp/images-99.jpg"group-title="Indian Movies Channels",Manoranjan TV
+https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/42rL3M8/images-39.png"group-title="Indian Movies Channels",Sony Max
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykgT6fW/images-40.png"group-title="Indian Movies Channels",Sony Max HD
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hWS9DdB/images-100.jpg"group-title="Indian Movies Channels",Wow Cinema
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WQTfpS/images-2020-10-30-T192450-629.jpg"group-title="Indian Movies Channels",Zee Anmol Cinema
+https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPtqGth/images-2020-10-30-T192536-320.jpg"group-title="Indian Movies Channels",Zee Bangla Cinema
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
