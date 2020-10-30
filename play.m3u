@@ -78,6 +78,8 @@ https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ssvpYwQ/images-63.jpg"group-title="Indian-Bangla",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kdZ1np/images-94.jpg"group-title="Indian",AndTV
+http://103.205.133.50/hls/andtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pv9PyNb/images-93.jpg"group-title="Indian",Dabangg TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g6JBQH1/images-92.jpg"group-title="Indian",Star Plus HD
