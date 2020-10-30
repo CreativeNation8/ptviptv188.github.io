@@ -102,4 +102,19 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gs4NVMz/images-82.jpg"group-title="InfoTainment",RT Documentary 
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQFDP0f/images-83.jpg"group-title="Kids",AniMax
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFjdCg5/images-84.jpg"group-title="Kids",Aniplus
+http://210.210.155.35/dr9445/h/h02/01.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/808xrhf/images-85.jpg"group-title="Kids",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgfTFSr/images-86.jpg"group-title="Kids",Cartoon Network Hindi
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nwfnyRM/images-35.png"group-title="Kids",Discovery Kids Hindi
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mqL0Fy/images-36.png"group-title="Kids",Disney Channel
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KK6SvtB/images-87.jpg"group-title="Kids",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gdv1svW/images-88.jpg"group-title="Kids",Pogo 
+https://ott.bingebd.com/live/ngrp:pogo_all/playlist.m3u8
