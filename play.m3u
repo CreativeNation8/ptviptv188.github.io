@@ -78,6 +78,8 @@ https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ssvpYwQ/images-63.jpg"group-title="Indian-Bangla",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g6JBQH1/images-92.jpg"group-title="IndianIndian",Star Plus HD
+http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J2Yn7CB/images-64.jpg"group-title="Indian",Sony Entertainment
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QDC6v2m/images-65.jpg"group-title="Indian",Sony Sab 
