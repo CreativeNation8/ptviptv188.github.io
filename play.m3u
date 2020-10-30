@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jbj6M3M/images-23.png"group-title="Bangla",Asian TV HD
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/wdK0rG2/images-24.png"group-title="Bangla",Anondo TV
 http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DpMwKN0/images-25.png"group-title="Bangla",ATN Bangla
