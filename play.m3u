@@ -148,6 +148,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.205.133.50/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hnXmrn/images-96.jpg"group-title="Indian Movies Channels",ABZY movies
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png"group-title="Indian Movies Channels",And Picture
+http://103.205.133.50/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQCkdm6/images-97.jpg"group-title="Indian Movies Channels",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KmFrGWz/images-98.jpg"group-title="Indian Movies Channels",BFlix Movies 
