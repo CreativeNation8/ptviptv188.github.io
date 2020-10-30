@@ -12,7 +12,7 @@ http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z4hyDyB/images-27.png"group-title="Bangla",BanglaVision
 http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7KVRKtM/images-68.jpg"group-title="Bangla",Bangla TV 
-http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NvmwHq/images-28.png"group-title="Bangla",BTV World
 http://103.205.133.50/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRwTT5g/images-20.png"group-title="Bangla",Channel 9
