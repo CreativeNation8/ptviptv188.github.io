@@ -164,3 +164,5 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QPtqGth/images-2020-10-30-T192536-320.jpg"group-title="Indian Movies Channels",Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vqg5BBH/images-2020-10-30-T193956-033.jpg"group-title="Indian Movies Channels",Zee Cinema HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
