@@ -21,6 +21,8 @@ http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6n8BGMG/images-51.jpg"group-title="Bangla",Channel I Hd
 http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7G5gg9D/images-75.jpg"group-title="Bangla",Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCP635G/images-52.jpg"group-title="Bangla",Deepto
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YcpSdx9/images-29.png"group-title="Bangla",DBC News
