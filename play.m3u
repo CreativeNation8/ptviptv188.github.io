@@ -38,6 +38,8 @@ http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2PdcHY/images-30.png"group-title="Bangla",Jamuna TV 
 http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZPBbkn/unnamed-2.png"group-title="Bangla",Jonaki TV
+https://iptv10.raytahost.com/live/jonaki/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chmYsFy/images-71.jpg"group-title="Bangla",MYTV
 http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bcs24Zh/images-32.png"group-title="Bangla",Magic Bangla TV
