@@ -88,6 +88,8 @@ http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJBNrxv/images-76.jpg"group-title="InfoTainment",Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJBNrxv/images-76.jpg"group-title="InfoTainment",Discovery Bangla
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RBhkSSp/images-77.jpg"group-title="InfoTainment",Discovery science Hindi
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xMZ1Dh3/images-33.png"group-title="InfoTainment",Discovery Turbo 
