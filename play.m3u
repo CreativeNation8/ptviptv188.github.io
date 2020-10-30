@@ -92,6 +92,8 @@ http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnmwqMh/images-95.jpg"group-title="Indian",Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png"group-title="Indian",Zee TV
+http://103.205.133.50/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJBNrxv/images-76.jpg"group-title="InfoTainment",Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJBNrxv/images-76.jpg"group-title="InfoTainment",Discovery Bangla
