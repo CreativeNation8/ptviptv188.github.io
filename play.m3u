@@ -151,7 +151,7 @@ http://103.205.133.50/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hnXmrn/images-96.jpg"group-title="Indian Movies Channels",ABZY movies
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png"group-title="Indian Movies Channels",And Picture
-http://103.205.133.50/hls/andpicture.m3u8
+https://ott.bingebd.com/live/ngrp:and_picture_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQCkdm6/images-97.jpg"group-title="Indian Movies Channels",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KmFrGWz/images-98.jpg"group-title="Indian Movies Channels",BFlix Movies 
@@ -162,6 +162,8 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTg5hsp/images-99.jpg"group-title="Indian Movies Channels",Manoranjan TV
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png"group-title="Indian Movies Channels",Star Gold HD
+https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/42rL3M8/images-39.png"group-title="Indian Movies Channels",Sony Max
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ykgT6fW/images-40.png"group-title="Indian Movies Channels",Sony Max HD
