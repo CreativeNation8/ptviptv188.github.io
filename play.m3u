@@ -212,6 +212,10 @@ http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png"group-title="English Movies Channels",Mxn HD
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvP8MTf/images-2020-10-31-T102651-622.jpg"group-title="English Movies Channels",WB
+https://ott.bingebd.com/live/ngrp:wb_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg"group-title="English Movies Channels",Sony Pix
+https://ott.bingebd.com/live/ngrp:sony_pix_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E932mKv.jpg"group-title="English Movies Channels",Cine film 
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
