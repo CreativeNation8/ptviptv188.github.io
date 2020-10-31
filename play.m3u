@@ -136,6 +136,18 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KK6SvtB/images-87.jpg"group-title="Kids",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png"group-title="Kids",CN English 
+https://ott.bingebd.com/live/ngrp:cartoon_network_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GMBcMwD/images-2020-10-31-T102057-592.jpg"group-title="Kids",Nick HD +
+https://ott.bingebd.com/live/ngrp:nick_hd_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8ppdkD/images-2020-10-31-T102240-474.jpg"group-title="Kids",Nick
+https://ott.bingebd.com/live/ngrp:nickelodeon_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c1CNgtw/images-42.png"group-title="Kids",Nick Jr.
+https://ott.bingebd.com/live/ngrp:nick_jr_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png"group-title="Kids",Sonic 
+https://ott.bingebd.com/live/ngrp:sonic_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SKyBnn3/images-2020-10-31-T102418-720.jpg"group-title="Kids",Sony Yay
+https://ott.bingebd.com/live/ngrp:sony_yay_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gdv1svW/images-88.jpg"group-title="Kids",Pogo 
 https://ott.bingebd.com/live/ngrp:pogo_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6c0HV8/images-89.jpg"group-title="Music",9XM
