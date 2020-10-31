@@ -94,6 +94,8 @@ http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png"group-title="Indian",Zee TV
 http://103.205.133.50/hls/zeetv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png"group-title="InfoTainment",BBC Earth 
+https://ott.bingebd.com/live/ngrp:sony_bbc_earth_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJBNrxv/images-76.jpg"group-title="InfoTainment",Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJBNrxv/images-76.jpg"group-title="InfoTainment",Discovery Bangla
@@ -102,6 +104,8 @@ https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xMZ1Dh3/images-33.png"group-title="InfoTainment",Discovery Turbo 
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NKPMHz6/images-2020-10-31-T101119-793.jpg"group-title="InfoTainment",History tv
+https://ott.bingebd.com/live/ngrp:history_tv_hd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRjn57s/images-78.jpg"group-title="InfoTainment",Hd Fashion 
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvFg2wv/images-79.jpg"group-title="InfoTainment",Fox Life 
@@ -114,6 +118,10 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gs4NVMz/images-82.jpg"group-title="InfoTainment",RT Documentary 
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png"group-title="InfoTainment",Natgeo 
+https://ott.bingebd.com/live/ngrp:nat_geo_in_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J5mkXQx/images-41.png"group-title="InfoTainment",Natgeo wild
+https://ott.bingebd.com/live/ngrp:nat_geo_wild_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQFDP0f/images-83.jpg"group-title="Kids",AniMax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFjdCg5/images-84.jpg"group-title="Kids",Aniplus
