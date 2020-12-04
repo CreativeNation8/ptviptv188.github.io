@@ -185,9 +185,9 @@ https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png"group-title="Indian Movies Channels",Star Gold HD
 https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/42rL3M8/images-39.png"group-title="Indian Movies Channels",Sony Max
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
+http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ykgT6fW/images-40.png"group-title="Indian Movies Channels",Sony Max HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hWS9DdB/images-100.jpg"group-title="Indian Movies Channels",Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WQTfpS/images-2020-10-30-T192450-629.jpg"group-title="Indian Movies Channels",Zee Anmol Cinema
@@ -231,9 +231,9 @@ http://103.49.168.172:8081/ebox/adsports4/chunks.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2VHq9Z/images-2020-10-31-T131052-139.jpg"group-title="Sports",BT sports 1 HD
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png"group-title="Sports",BEIN SPORT HD 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png"group-title="Sports",BEIN SPORT HD 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png"group-title="Sports",BEIN SPORT EXTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png"group-title="Sports",EuroSports 4K
@@ -249,7 +249,7 @@ https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sports",Olympic Channel HD
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png"group-title="Sports",Titas Sports
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8
+http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png"group-title="Sports",Sony Ten 1 
 https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/180px-Sony_TEN_logo.png"group-title="Sports",Sony Ten 1 HD
@@ -265,8 +265,8 @@ http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"group-title="Sports",Star Sports 2
 http://103.205.133.50/hls/chss2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2KY8PR6/images-2020-11-03-T130255-758.jpg"group-title="Sports",Sky Sports Cricket
-http://c1live.com:8081/c1live/skycricket/chunks.m3u8
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvfbGhx/images-2020-11-03-T125929-299.jpg"group-title="Sports",Willow cricket
-http://c1live.com:8081/c1live/willow/chunks.m3u8
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="Sports",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?@amarnettv.live
